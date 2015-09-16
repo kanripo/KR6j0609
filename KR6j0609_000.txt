@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說玄師陀所說神經
+#+DATE: 2015-08-30 20:36:14.249912
+#+PROPERTY: JUAN 0
