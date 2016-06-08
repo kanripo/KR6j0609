@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:14.035887
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:37
 #+TITLE: 佛說玄師颰陀所說神呪經
 #+PROPERTY: CBETA_ID T21n1378a
 #+PROPERTY: ID KR6j0609
